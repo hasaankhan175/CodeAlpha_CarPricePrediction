@@ -1,5 +1,5 @@
 
-````markdown
+
 # 🚗 Car Price Prediction - Machine Learning Project
 
 ## 📌 Project Overview
@@ -141,8 +141,6 @@ model = joblib.load("car_price_model.pkl")
 ## 📜 License
 
 This project is for educational purposes under the CodeAlpha Internship program.
-
-```
 
 ---
 
