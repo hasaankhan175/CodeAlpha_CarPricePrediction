@@ -2,6 +2,7 @@
 
 # 🚗 Car Price Prediction - Machine Learning Project
 
+Streamlit App: [Click ME!](https://codealphacarpriceprediction.streamlit.app/)
 ## 📌 Project Overview
 This project is developed as part of the **CodeAlpha Data Science Internship Task**.  
 The goal is to build a machine learning model that can predict the **selling price of used cars** based on various features such as car age, mileage, fuel type, transmission, and ownership history.
