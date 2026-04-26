@@ -3,7 +3,7 @@ import numpy as np
 import joblib
 
 # Load trained model
-model = joblib.load(""D:\Internship\CodeAlpha_CarPricePrediction\car_price_model.pkl")
+model = joblib.load("D:\Internship\CodeAlpha_CarPricePrediction\car_price_model.pkl")
 
 st.set_page_config(page_title="Car Price Predictor", layout="centered")
 
